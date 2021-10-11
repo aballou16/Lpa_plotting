@@ -4,11 +4,7 @@ Plots for high-dimensional, genetic data for  Lp(a)*
 *note: this plotting technique was developed for Lp(a) but can be applied to other phenotypes. Titles and labels are de-identified. 
 
 ## PheWas Circle Plots
-<<<<<<< HEAD
 This plot can be used to demonstrate heterogeneity of results across a vast array of phenotypes. Direction of effect as well as strength of effect can be shown through color and shade mapping. Results are split based on 4 strata (each row the the circle). 
-=======
-This plot can be used to demonstrate heterogeneity of results across a vast array of phenotypes. Direction of effect as well as strength of effect can be shown through color and shade mapping for multiple strata.  
->>>>>>> fae412893d229d508bda077a58e308c5c384fcde
 
 **Relevant Script:** PheWas_circle_plot.R
 
