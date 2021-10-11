@@ -2,7 +2,7 @@
 
 ## Load packages & data
 library(tidyverse)
-forest_data <- read.csv("SNPS_dummy_data.csv", header = TRUE)
+forest_data <- read.csv("SNPS_data.csv", header = TRUE)
 
 ## Data wrangling 
 #put SNPs in order by chromosome position
