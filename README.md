@@ -14,7 +14,7 @@ This plot can be used to demonstrate heterogeneity of results across a vast arra
 *Note: The titles are purely to show labels are possible. They are truncated and not meant to be legible for this example.*
 
 ## SNP forest plot
-These 2 plots can be used to demonstrate SNP effect sizes and confidence intervals as well as heterogeneity in coded allele frequencies by strata. 
+These 2 plots can be used to demonstrate SNP effect sizes and confidence intervals as well as heterogeneity in coded allele frequencies by strata. Each Row corresponds to a single SNP. 
 
 **Relevant Script:** Forest_plot.R
 
